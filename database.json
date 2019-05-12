@@ -1,0 +1,22 @@
+{
+    "userDatabase": [
+        {
+            "firstName": "Gabriel",
+            "lastName": "Gruter",
+            "email": "gabriel.g@brunel.com",
+            "password": "author"
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Kyberd",
+            "email": "paul.k@brunel.com",
+            "password": "friend"
+        },
+        {
+            "firstName": "Marios",
+            "lastName": "Angelides",
+            "email": "marios.a@brunel.com",
+            "password": "friend"
+        }
+    ]
+}
